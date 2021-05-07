@@ -1,0 +1,13 @@
+Package: myttest
+Type: Package
+Title: Calculates ttest and prepare plots
+Version: 0.1.0
+Author: Desiree Nkodia
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Identifies if variance is same or different and then calculates ttest based on the inputs(x,y), paired or not paired
+License: 1.0.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-04-26 18:56:06 UTC; clear
